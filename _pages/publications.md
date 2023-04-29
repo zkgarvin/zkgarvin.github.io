@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  For a full list of publications, please see my <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  For a full list of publications and conference presentations, please see my <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 <b>[Mars Trace Gas Fluxes: Critical Strategies and Implications for the Upcoming Decade](http://zkgarvin.github.io/publications/whitepaper)</b> <br>
