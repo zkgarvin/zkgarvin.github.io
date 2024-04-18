@@ -8,6 +8,6 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](../files/ZacharyGarvin_CV_2023.pdf) or view the embedded document below:
+Download my CV [here](../files/ZacharyGarvin_CV_20240418.pdf) or view the embedded document below:
 
-<object data="../files/ZacharyGarvin_CV_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/ZacharyGarvin_CV_20240418.pdf" width="1000" height="1000" type='application/pdf'></object>
