@@ -9,9 +9,9 @@ author_profile: true
   For a full list of publications and conference presentations, please see my <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<b><span style="color: #4693aa;">Prevalence of trace gas-oxidizing soil bacteria increases with radial distance from Polloquere hot spring within a high-elevation Andean cold desert</span></b> <br>
+<b>[Prevalence of trace gas-oxidizing soil bacteria increases with radial distance from Polloquere hot spring within a high-elevation Andean cold desert](https://doi.org/10.1093/ismejo/wrae062)</b> <br>
 <i><b>Z.K. Garvin</b></i>, S.R. Abades, N. Trefault, F.D. Alfaro, K. Sipes, K.G. Lloyd, T.C. Onstott<br>
-<i>In review</i>.
+<i>The ISME Journal</i>, 2024.
 <br>
 <br>
 <b>[Mars Trace Gas Fluxes: Critical Strategies and Implications for the Upcoming Decade](https://doi.org/10.3847/25c2cfeb.4e6e18df)</b> <br>
