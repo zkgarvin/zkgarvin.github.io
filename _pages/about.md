@@ -10,6 +10,13 @@ header:
   overlay_image: PQ_fieldphoto_cropped.png
 ---
 
-I am a Postdoctoral Fellow in the Department of Biology and The Science, Technology, and International Affairs Program at Georgetown University with a focus in Geomicrobiology and Astrobiology. My primary research interests lie at the intersection of microbial ecology, biochemistry, and geochemistry. I utilize techniques from traditional microbiology, metagenomics, and analytical chemistry to study “extreme” terrestrial environments, the microorganisms that inhabit them, and the strategies life employs to survive under such challenging conditions. My research has spanned topics from bacterial ether lipid production in peat environments to microbial trace gas oxidation in desert soils as analogs for the surface environments of early and modern Mars. 
+I am a Postdoctoral Fellow in the Department of Biology and The Science, Technology, and International Affairs Program at Georgetown University in the Johnson Biosignatures Lab with a focus in Geomicrobiology and Astrobiology. 
 
 I receieved my PhD from Princeton University in the Department of Geosciences. My dissertation explored the microbial communities of soils surrounding hot springs in the salt flats of the Andean Altiplano, Chile, and the geothermal basins of Yellowstone National Park, with implications for the metabolisms of potential microbes on Mars and how to detect them.
+
+## Current Work
+I am currently focused on preparing for astrobiology-relevant instruments on upcoming Mars missions. Specifically, I have worked on the modification and application of a commercial LDI-MS to serve as a science analog to the MOMA instrument onboard the Rosalind Franklin rover slated to launch in 2028. I collaborate with NASA and ESA partners in using this instrument to assist in data interpretation for the flight instrument.
+
+## Research Interests
+My primary research interests lie at the intersection of microbial ecology, biochemistry, and geochemistry. I utilize techniques from traditional microbiology, metagenomics, and analytical chemistry to study “extreme” terrestrial environments, the microorganisms that inhabit them, and the strategies life employs to survive under such challenging conditions. My research has spanned topics from bacterial ether lipid production in peat environments to microbial trace gas oxidation in desert soils as analogs for the surface environments of early and modern Mars. 
+
