@@ -9,6 +9,10 @@ author_profile: true
   For a full list of publications and conference presentations, please see my <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b>[Analysis of Mars analog soils and minerals via a modified benchtop MOMA-like LDI-MS](https://europeanastrobiology.eu/beacon-25-homepage/)</b> <br>
+Talk, <i><b>Biennial European Astrobiology Conference (BEACON)</b></i>, July 2025.
+<br>
+<br>
 <b>[Assessment of lipids as a life detection and characterization strategy in low biomass desert soils surrounding an Andean hot spring](https://agu.confex.com/agu/abscicon21/meetingapp.cgi/Paper/1029206)</b> <br>
 eLightning Presentation, <i><b>AbSciCon</b></i>, May 2022.
 <br>
