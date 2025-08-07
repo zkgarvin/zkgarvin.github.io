@@ -8,6 +8,10 @@ redirect_from:
   - /resume -->
 ---
 
+## Lake Kleifarvatn, Iceland
+![Kleifarvatn](/images/Kleifarvatn_FullTeam.jpg){: width="50%"}{: .align-right}
+I participated in the NASA Goddard SWIFT expedition to southwest Iceland as a collaborating scientist in June 2025. As part of a team led by Dr. Dina Bower, we performed field measurements and sampling of mineral and sediment deposits from subaqueous and subaerial vents at the hydrothermally-fed Lake Kleifarvatn and a nearby hot spring. Our team utilized field portable instruments, including Raman, XRF, XRD, and HSI, as analogs to planetary mission-relevant instrumentation to assist in the interpretation and reconstruction of similar Mars environments. Back in the lab, I am using the samples collected from these sites to characterize their microbial communities as well as perform laser desorption mass spectrometry (LD-MS) to detect organics via a modified commercial instrument analogous to the MOMA instrument on the upcoming Rosalind Franklin rover to Mars.
+
 ## Polloquere Hot Spring, Andean Altiplano, Chile
 ![Polloquere](/images/PQ_sampling_cropped.png){: width="40%"}{: .align-left}
 I completed a successful sampling expedition across an environmental gradient in northern Chile (Spring 2019) together with collaborators Drs. Sebastian Abades, Nicole Trefault, Francisco Alfaro, and Marlene Manzano from Universidad Mayor. The trip extended from the northern Atacama Desert to 4,800 meters above sea level (masl; ~15,800 ft) in the Andean Altiplano. My primary objective was to sample soils surrounding the Polloquere Hot Spring (4,200 masl), a sulfurous geothermal spring in the Salar de Surire salt flat. The samples and measurements from this site form the crux of my dissertation, revealing how soil microbial community structure and metabolic potential change across the transition from hot spring to desert. Specifically, I tracked the abundance and activity of trace gas-oxidizing bacteria that scavenge hydrogen gas from the atmosphere to survive in the harsh, low nutrient conditions of the salt flat. 
