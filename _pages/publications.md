@@ -9,9 +9,9 @@ author_profile: true
   For a full list of publications and conference presentations, please see my <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<b>[Application of a modified commercial laser mass spectrometer as a science analog of the Mars Organic Molecule Analyzer (MOMA)](https://doi.org/10.48550/arXiv.2506.14691)</b> <br>
+<b>[Application of a modified commercial laser mass spectrometer as a science analog of the Mars Organic Molecule Analyzer (MOMA)](https://doi.org/10.3389/fspas.2026.1781996)</b> <br>
 <i><b>Z.K. Garvin\*</b></i>, A. Roussel\*, L. Chou, M.E. Castillo, X. Li, W.B. Brinckerhoff, S.S. Johnson<br>
-<i>arXiv preprint (submitted to Astrobiology)</i>, 2025.
+<i>Frontiers in Astronomy and Space Sciences</i>, 2026.
 <br>
 <br>
 <b>[Prevalence of trace gas-oxidizing soil bacteria increases with radial distance from Polloquere hot spring within a high-elevation Andean cold desert](https://doi.org/10.1093/ismejo/wrae062)</b> <br>
