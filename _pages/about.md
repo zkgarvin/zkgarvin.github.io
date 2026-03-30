@@ -12,9 +12,10 @@ header:
 
 <p class="hp-lead">
   I am a Postdoctoral Fellow in the Department of Biology and the Science, Technology, and International Affairs Program at Georgetown University, working in the Johnson Biosignatures Lab. My research spans the fields of <strong>geomicrobiology</strong>, <strong>analytical chemistry</strong>, and <strong>astrobiology</strong> to explore how life persists at the physical and chemical edges of habitability, and how we could detect it elsewhere.
+<br><br>
+I received my PhD from Princeton University in the Department of Geosciences. My dissertation explored high-affinity trace gas-oxidizing microbes (H<sub>2</sub>, CO, CH<sub>4</sub>) in the soils surrounding hot springs in the Andean Altiplano, Chile, and Yellowstone National Park. I proposed a <a href="https://doi.org/10.3847/25c2cfeb.4e6e18df" target="_blank">mission concept</a> to search for trace gas uptake activity via gas flux measurements on Mars.
 </p>
 
-I received my PhD from Princeton University in the Department of Geosciences. My dissertation explored the microbial communities of soils surrounding hot springs in the Andean Altiplano salt flats of Chile and the geothermal basins of Yellowstone National Park, with implications for the metabolisms of potential microbes on Mars and how to detect them.
 
 ---
 
@@ -54,13 +55,11 @@ I received my PhD from Princeton University in the Department of Geosciences. My
 <p>My primary research interests lie at the intersection of microbial ecology, biochemistry, and geochemistry. I utilize techniques from traditional microbiology, metagenomics, and analytical chemistry to study "extreme" terrestrial environments, the microorganisms that inhabit them, and the strategies life employs to survive under such challenging conditions. My research has spanned topics from bacterial ether lipid production in peat environments to microbial trace gas oxidation in desert soils as analogs for the surface environments of early and modern Mars.</p>
 
 <ul class="hp-tags">
-  <li class="hp-tag">Geomicrobiology</li>
   <li class="hp-tag">Astrobiology</li>
-  <li class="hp-tag">Microbial Ecology</li>
-  <li class="hp-tag">Metagenomics</li>
-  <li class="hp-tag">Analytical Chemistry</li>
-  <li class="hp-tag">Mars Analogs</li>
-  <li class="hp-tag">Extreme Environments</li>
   <li class="hp-tag">Biosignatures</li>
+  <li class="hp-tag">Geomicrobiology</li>
+  <li class="hp-tag">Microbial Ecology</li>
+  <li class="hp-tag">Analytical Chemistry</li>
+  <li class="hp-tag">Extreme Environments</li>
 </ul>
 </div>
