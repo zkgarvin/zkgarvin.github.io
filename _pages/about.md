@@ -11,7 +11,7 @@ header:
 ---
 
 <p class="hp-lead">
-  I am a Postdoctoral Fellow in the Department of Biology and the Science, Technology, and International Affairs Program at Georgetown University, working in the Johnson Biosignatures Lab. My research spans the fields of <strong>geomicrobiology</strong>, <strong>analytical chemistry</strong>, and <strong>astrobiology</strong> to explore how life persists at the physical and chemical edges of habitability, and how we could detect it elsewhere.
+  I am a Postdoctoral Fellow in the Department of Biology and the Science, Technology, and International Affairs Program at Georgetown University, working in the Johnson Biosignatures Lab. My research spans the fields of <font color="#8cd2d5"><strong>geomicrobiology</strong></font>, <font color="#8cd2d5"><strong>analytical chemistry</strong></font>, and <font color="#8cd2d5"><strong>astrobiology</strong></font> to explore how life persists at the physical and chemical edges of habitability, and how we could detect it elsewhere.
 <br><br>
 I received my PhD from Princeton University in the Department of Geosciences. My dissertation explored high-affinity trace gas-oxidizing microbes (H<sub>2</sub>, CO, CH<sub>4</sub>) in the soils surrounding hot springs in the Andean Altiplano, Chile, and Yellowstone National Park. I proposed a <a href="https://doi.org/10.3847/25c2cfeb.4e6e18df" target="_blank">mission concept</a> to search for trace gas uptake activity via gas flux measurements on Mars.
 </p>
@@ -30,7 +30,7 @@ I received my PhD from Princeton University in the Department of Geosciences. My
     <a class="hp-card__link" href="https://jgi.doe.gov/user-science/science-stories/jgi-announces-2026-new-investigator-portfolio" target="_blank">Read about the award</a>
   </div>
 
-  <div class="hp-card">
+  <div class="hp-card hp-card--sage">
     <p class="hp-card__label">Field Expedition &middot; June 2025</p>
     <p class="hp-card__title">Iceland — NASA GIFT Program</p>
     <p class="hp-card__body">Participated in the NASA Goddard SWIFT expedition to Lake Kleifarvatn, a hydrothermally-fed lake in SW Iceland. As a collaborating scientist with Dr. Dina Bower's team "ATOMIC", I performed field measurements and sampling across hydrothermal sites using planetary mission-relevant instruments.</p>
@@ -44,7 +44,7 @@ I received my PhD from Princeton University in the Department of Geosciences. My
 <h2 class="hp-section-header hp-section-header--sand">Current Work</h2>
 
 <div class="hp-section">
-<p>I am currently focused on preparing for astrobiology-relevant instruments on upcoming Mars missions. Specifically, I have worked on the modification and application of a commercial LDI-MS to serve as a science analog to the <strong>MOMA instrument</strong> onboard the <em>Rosalind Franklin</em> rover, slated to launch in 2028. I collaborate with NASA and ESA partners in using this instrument to assist in data interpretation for the flight instrument.</p>
+<p>I am currently focused on preparing for astrobiology-relevant instruments on upcoming Mars missions. Specifically, I have worked on the modification and application of a commercial LDI-MS to serve as a science analog to the <font color="#c4a882"><strong>MOMA (Mars Organic Molecule Analyzer)</strong></font> instrument onboard the <em>Rosalind Franklin</em> rover, slated to launch in 2028. As a member of the MOMA science team, I collaborate with NASA and ESA partners in using this instrument to assist in data interpretation for the flight instrument.</p>
 </div>
 
 ---
@@ -58,8 +58,8 @@ I received my PhD from Princeton University in the Department of Geosciences. My
   <li class="hp-tag">Astrobiology</li>
   <li class="hp-tag">Biosignatures</li>
   <li class="hp-tag">Geomicrobiology</li>
+  <li class="hp-tag">Mass Spectrometry</li>
   <li class="hp-tag">Microbial Ecology</li>
-  <li class="hp-tag">Analytical Chemistry</li>
   <li class="hp-tag">Extreme Environments</li>
 </ul>
 </div>

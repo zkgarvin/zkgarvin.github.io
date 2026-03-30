@@ -119,6 +119,7 @@ $hp-surface : #2f3542;
   margin-top: auto;
 
   .hp-card--sand & { color: $hp-sand; }
+  .hp-card--sage & { color: $hp-sage; }
 
   &::after { content: " →"; }
 }
