@@ -22,17 +22,18 @@ I received my PhD from Princeton University in the Department of Geosciences. My
 
 <div class="hp-news-grid">
 
+  <div class="hp-card hp-card--sand">
+    <p class="hp-card__label">Funding &middot; 2026</p>
+    <p class="hp-card__title">JGI CSP New Investigator Award</p>
+    <p class="hp-card__body">Proposal selected for the DOE Joint Genome Institute Community Science Program New Investigator call, enabling metagenomic sequencing to characterize microbial communities linked to mineral distributions in geothermal Mars-analog environments in Iceland.</p>
+    <a class="hp-card__link" href="https://jgi.doe.gov/user-science/science-stories/jgi-announces-2026-new-investigator-portfolio" target="_blank">Read about the award</a>
+  </div>
+
   <div class="hp-card">
     <p class="hp-card__label">Field Expedition &middot; June 2025</p>
     <p class="hp-card__title">Iceland — NASA GIFT Program</p>
-    <p class="hp-card__body">Participated in the NASA Goddard SWIFT expedition to Lake Kleifarvatn, a hydrothermally-fed lake in SW Iceland. As a collaborating scientist with Dr. Dina Bower's team, I performed field measurements and sampling at geothermal vents using planetary mission-relevant instruments.</p>
-    <a class="hp-card__link" href="/fieldwork/">Read about the expedition</a>
-  </div>
-
-  <div class="hp-card hp-card--sand">
-    <p class="hp-card__label">Funding &middot; 2026 Portfolio</p>
-    <p class="hp-card__title">JGI CSP New Investigator Award</p>
-    <p class="hp-card__body">Proposal selected for the DOE Joint Genome Institute Community Science Program New Investigator call, enabling metagenomic and transcriptomic sequencing to characterize microbial communities in geothermal Mars-analog environments.</p>
+    <p class="hp-card__body">Participated in the NASA Goddard SWIFT expedition to Lake Kleifarvatn, a hydrothermally-fed lake in SW Iceland. As a collaborating scientist with Dr. Dina Bower's team "ATOMIC", I performed field measurements and sampling across hydrothermal sites using planetary mission-relevant instruments.</p>
+    <a class="hp-card__link" href="https://science.nasa.gov/solar-system/planetary-analogs/nasas-goddard-instrument-field-team-iceland-2025/" target="_blank">Read about the expedition</a>
   </div>
 
 </div>
