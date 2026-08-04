@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zachary K. Garvin"
 title_separator          : "-"
 name                     : &name "Zachary K. Garvin, PhD"
-description              : &description "Postdoctoral Fellow at Georgetown University"
+description              : &description "Professor of the Practice at Georgetown University"
 url                      : https://zkgarvin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zkgarvin/zkgarvin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zachary K. Garvin, PhD"
   avatar           : "Snow_Headshot_ZKG.png"
-  bio              : "(he/him)<br><br>Postdoctoral Fellow at Georgetown University<br><br>Microbiologist, Geochemist, and Astrobiologist"
+  bio              : "(he/him)<br><br>Professor of the Practice at Georgetown University<br><br>Microbiologist, Geochemist, and Astrobiologist"
   location         : "Washington, D.C."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
