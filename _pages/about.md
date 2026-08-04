@@ -12,7 +12,7 @@ header:
 ---
 
 <p class="hp-lead">
-  I am a Professor of the Practice in <a href="https://spacestudies.georgetown.edu/" target="_blank">Space Studies</a> within the Science, Technology, and International Affairs Program at Georgetown University. I am a member of the Johnson Biosignatures Lab, conducting research that spans the fields of <font color="#8cd2d5"><strong>geomicrobiology</strong></font>, <font color="#8cd2d5"><strong>analytical chemistry</strong></font>, and <font color="#8cd2d5"><strong>astrobiology</strong></font> to explore how life persists at the physical and chemical edges of habitability, and how we could detect it elsewhere.
+  I am Zack, a Professor of the Practice in <a href="https://spacestudies.georgetown.edu/" target="_blank">Space Studies</a> within the Science, Technology, and International Affairs Program at Georgetown University. As a member of the Johnson Biosignatures Lab, I conduct research that spans the fields of <font color="#8cd2d5"><strong>geomicrobiology</strong></font>, <font color="#8cd2d5"><strong>analytical chemistry</strong></font>, and <font color="#8cd2d5"><strong>astrobiology</strong></font> to explore how life persists at the physical and chemical edges of habitability, and how we could detect it elsewhere.
 <br><br>
 I received my PhD from Princeton University in the Department of Geosciences. My dissertation explored high-affinity trace gas-oxidizing microbes (H<sub>2</sub>, CO, CH<sub>4</sub>) in the soils surrounding hot springs in the Andean Altiplano, Chile, and Yellowstone National Park. I proposed a <a href="https://doi.org/10.3847/25c2cfeb.4e6e18df" target="_blank">mission concept</a> to search for trace gas uptake activity via gas flux measurements on Mars.
 </p>
