@@ -3,6 +3,7 @@ permalink: /
 title: "Molecules to Microbes from Earth to Mars (and beyond...)<br><br><br><br><br>"
 excerpt: '<b><i>"...so by generation I believe it has been with the great Tree of Life, which fills with its dead and broken branches the crust of the earth, and covers the surface with its ever-branching and beautiful ramifications."</i><br>-Charles Darwin</b><br>'
 author_profile: true
+use_site_title_only: true
 redirect_from:
   - /about/
   - /about.html
